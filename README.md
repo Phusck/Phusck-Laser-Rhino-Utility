@@ -7,6 +7,7 @@ All the GH files are inteded to be run with the GrasshopperPlayer Command
 
 ----
 Overlap Fingers.gh
+
 Overlap Fingers Reversed.gh
 
 Will make fingers between X solids(Inner) that overlap with 1 solid(Outer).
@@ -16,6 +17,7 @@ Reverse will take X Outers and 1 Inner
 
 ----
 Halfsies.gh
+
 Halfsies reversed.gh
 
 Will make a make a connection (This must have a name***) between X solids(Inners) that overlap one solid(Outer)
@@ -24,6 +26,7 @@ Reversed version will switch what half belons tho which
 
 ----
 Lay.gh
+
 Lay - Optimized.gh
 
 Will turn X Solids into 2d laying in a semi optimized plate
