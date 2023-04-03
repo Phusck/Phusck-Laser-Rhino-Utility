@@ -5,6 +5,9 @@ Tools for designing laser cut products in Rhino and Grasshopper
 All the GH files are inteded to be run with the GrasshopperPlayer Command
 (It is possible to setup a Keyboard shortcut for running a specific file)
 
+Youtube tutorial of using the tools
+https://www.youtube.com/watch?v=0EqvGbwRyUQ&ab_channel=OleRisgaard
+
 ----
 Overlap Fingers.gh
 
